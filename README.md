@@ -42,7 +42,45 @@
 #### 모바일사업개발팀
 - 2016~2017
 
-</br>
-
 ### Pikicast
 - 2014~2015
+- [Click Link](https://www.pikicast.com/)
+
+### Add2Paper
+- 2013~2014
+
+* * *
+
+## 프로젝트
+### Fooding
+- 도시락 전자 상거래 서비스
+- (SI) 백엔드 시스템 구축 총괄
+- [Click Link](http://fooding.io)
+
+### Codeigniter-apidocs
+- 오픈소스 프로젝트 책임
+- Codeigniter로 기 개발 된 프로젝트의 컨트롤러를 분석하여 자동으로 API 테스팅 문서(응답/요청)를 작성. 
+- 핵심 모듈 (PHP) 개발 담당
+- [Click Link](https://github.com/owen1025/codeigniter-apidocs)
+
+### Zio Ball
+- 2D 모바일 퍼즐 게임
+- iOS / Android 스토어 100만 다운로드 기록
+- 프로젝트(클라이언트) 개발 책임
+- [Corona SDK](https://coronalabs.com/product/) Lua script 사용
+- [Click Link](https://www.youtube.com/watch?v=0Lzv6W_c-lY)
+
+* * *
+
+## 미디어 소개 및 기타 사항
+> 해당 항목은 지난 발자취를 기록하기 위해 작성하였습니다. 따로 확인하지 않으셔도 좋습니다.
+### 선정 및 활동
+- KAIST 글로벌 기술창업자 육성사업 / KAIST Velocity 선정, 활동
+- SW Maestro 2기 선정, 활동
+- 
+
+</br>
+
+### 인터뷰
+- 최제필-인터뷰-한양대학교 [누구나 개발자가 될 수 있다](http://www.hanyang.ac.kr/web/www/interview?p_p_id=newsView_WAR_newsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_newsView_WAR_newsportlet_sCategoryId=0&_newsView_WAR_newsportlet_sTag=%EC%B5%9C%EC%A0%9C%ED%95%84&_newsView_WAR_newsportlet_sCurPage=1&_newsView_WAR_newsportlet_sIsMyMessage=0&_newsView_WAR_newsportlet_action=view_message&_newsView_WAR_newsportlet_sRefLinkId=0&_newsView_WAR_newsportlet_messageId=17589&_newsView_WAR_newsportlet_sOwnerId=0)
+- 조선일보 ["생활 속 아이디어로 '국민 앱' 만들고 싶어요"](http://news.chosun.com/site/data/html_dir/2012/10/10/2012101001508.html?rsMobile=false)
