@@ -36,7 +36,7 @@
 </br>
 
 ## 경력사항
-### AJ Networks
+### AJ Networks 
 #### 아키텍처팀 
 - 2017~현재
 #### 모바일사업개발팀
@@ -49,7 +49,7 @@
 ### Add2Paper
 - 2013~2014
 
-* * *
+</br>
 
 ## 프로젝트
 ### Fooding
@@ -66,21 +66,36 @@
 ### Zio Ball
 - 2D 모바일 퍼즐 게임
 - iOS / Android 스토어 100만 다운로드 기록
-- 프로젝트(클라이언트) 개발 책임
+- 프로젝트(클라이언트) 개발, 기획 책임
 - [Corona SDK](https://coronalabs.com/product/) Lua script 사용
 - [Click Link](https://www.youtube.com/watch?v=0Lzv6W_c-lY)
 
-* * *
-
-## 미디어 소개 및 기타 사항
-> 해당 항목은 지난 발자취를 기록하기 위해 작성하였습니다. 따로 확인하지 않으셔도 좋습니다.
-### 선정 및 활동
-- KAIST 글로벌 기술창업자 육성사업 / KAIST Velocity 선정, 활동
-- SW Maestro 2기 선정, 활동
-- 
-
 </br>
+
+## 강연, 활동 등 기타사항
+> 해당 항목은 지난 발자취를 기록하기 위해 작성하였습니다. 따로 확인하지 않으셔도 좋습니다.
+
+### 강연, 발표
+- 한양대학교 개발동아리 FORIF 웹 개발 전임 강사
+- 'Make Flappy Bird in 10 minutes' Youtube 영상 촬영 [Click Link](https://www.youtube.com/watch?v=S1CeVZ_i0y0)
+- TML 세미나 '8분만에 ‘Angry Bird’ 만들기 with Corona SDK' 강연
+- 청년프론티어 앱 창업 지원사업 ‘Coaching Startup’ 우수사례 발표
+- KSIA 제 4회 ‘IT인들의 마음 속 이야기’ 강연
+- 삼성 슈퍼루키멤버십 자기 소개 분야 - ‘그래도 우리는 게임을 만든다’ 발표
+
+### 선정 및 활동
+- 창의도전형 SW R&D 지원사업 선정, 활동 - **고속선형탐색을 이용한 증강현실 기반의 3D 가상 인테리어 서비스**
+- KAIST 글로벌 기술창업자 육성사업 / KAIST Velocity 선정, 활동
+- 삼성전자 슈퍼루키멤버십 IT분야 선정, 활동
+- SW Maestro 2기 선정, 활동
+- 청년프론티어 앱 창업 지원사업 선정, 활동
 
 ### 인터뷰
 - 최제필-인터뷰-한양대학교 [누구나 개발자가 될 수 있다](http://www.hanyang.ac.kr/web/www/interview?p_p_id=newsView_WAR_newsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_newsView_WAR_newsportlet_sCategoryId=0&_newsView_WAR_newsportlet_sTag=%EC%B5%9C%EC%A0%9C%ED%95%84&_newsView_WAR_newsportlet_sCurPage=1&_newsView_WAR_newsportlet_sIsMyMessage=0&_newsView_WAR_newsportlet_action=view_message&_newsView_WAR_newsportlet_sRefLinkId=0&_newsView_WAR_newsportlet_messageId=17589&_newsView_WAR_newsportlet_sOwnerId=0)
 - 조선일보 ["생활 속 아이디어로 '국민 앱' 만들고 싶어요"](http://news.chosun.com/site/data/html_dir/2012/10/10/2012101001508.html?rsMobile=false)
+- 중앙일보 [좋아하는 일에 미래 걸었다, SW에 미친 고교생 둘](http://news.joins.com/article/9944561)
+
+### 방송
+- EBS 창업오디션 <브레인 빅뱅> 7부작 출연
+- KBS 특성화고 입사프로젝트 <스카우트> SK Planet편 출연
+- YTN Science <마이웨이 25시> 한국애니메이션고등학교 편 출연
