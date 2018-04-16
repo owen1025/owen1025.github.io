@@ -10,11 +10,6 @@
 
 </br>
 
-## 수상실적
-대회에서 수상한 이력이 업무 수행능력과 큰 상관관계는 없다고 생각하여 따로 작성하지 않습니다. 혹시 내역이 필요하시다면 [포트폴리오/영문이력서](https://owen1025.github.io) Profile/AWARD 항목을 참고해주세요.
-
-</br>
-
 ## 자기소개서
 텍스트는 자신의 생각을 타인에게 전달하는 강력한 수단이라고 생각합니다. 이 좋은 매체에 고향은 어디고 가정은 어쩌고 본인을 구사어미로 꾸미는 행위는 하고 싶지 않습니다.
 
@@ -31,22 +26,33 @@
 
 </br>
 
-일을 좋아합니다.~~노가다를 싫어합니다~~ 
+일을 좋아합니다 ~~노가다를 싫어합니다~~.
 
 </br>
 
 ## 경력사항
 ### AJ Networks 
 #### 아키텍처팀 
+- **차세대 ERP 시스템 설계, 구축 프로젝트 참여**
+  - IDC 기반의 DC/OS를 활용한 컨테이너 오케스트레이션
+  - ㅁㅇㄴㄹ
+- **데이터베이스 메타데이터 관리 도구 개발 책임**
+  - 프로젝트(UI, API) 개발 전담
+  - UI - HTML5, CSS(LESS), Vue.js, jQuery
+  - API - Node.js, Express, knexjs
 - 2017~현재
 #### 모바일사업개발팀
 - 2016~2017
 
 ### Pikicast
+- **피키캐스트 웹서비스 메이저 업데이트(2.0)**
+  - API 개발 전담 및 기획 참여
+  - PHP(Codeigniter)
+  - [Click Link](https://www.pikicast.com/)
 - 2014~2015
-- [Click Link](https://www.pikicast.com/)
 
 ### Add2Paper
+- **프린트 드라이버**
 - 2013~2014
 
 </br>
@@ -54,7 +60,21 @@
 ## 프로젝트
 ### Fooding
 - 도시락 전자 상거래 서비스
-- (SI) 백엔드 시스템 구축 총괄
+- **(SI) 백엔드 시스템 구축, 개발 총괄**
+  - API 개발 전담
+    - Node.js, Express, Knexjs
+    - 인증/인가 서비스 (JWT, AWS Lambda, API Gateway)
+    - 메인(유저) 서비스
+    - 어드민(CMS) 서비스
+    - 푸쉬(이메일, SMS) 서비스
+    - HTML 기반의 PDF(세금계산서, 견적서 등) 렌더링 서비스
+  - 운영, 개발 인프라 구축 전담
+    - 컨테이너 오케스트레이션 (Docker, ECS, EC2, ECR)
+    - 데이터베이스 (MySQL - RDS)
+    - 트래픽 로드 밸런싱 (ALB, Route53)
+    - CI/CD (Codepipeline, Codebuild, Github webhook)
+      - 무중단(블루-그린) 배포
+    - 모니터링 (Cloud watch)
 - [Click Link](http://fooding.io)
 
 ### Codeigniter-apidocs
@@ -72,12 +92,17 @@
 
 </br>
 
+## 수상실적
+대회에서 수상한 이력이 업무 수행능력과 큰 상관관계는 없다고 생각하여 따로 작성하지 않습니다. 혹시 내역이 필요하시다면 [포트폴리오/영문이력서](https://owen1025.github.io) Profile/AWARD 항목을 참고해주세요.
+
+</br>
+
 ## 강연, 활동 등 기타사항
 > 해당 항목은 지난 발자취를 기록하기 위해 작성하였습니다. 따로 확인하지 않으셔도 좋습니다.
 
 ### 강연, 발표
 - 한양대학교 개발동아리 FORIF 웹 개발 전임 강사
-- 'Make Flappy Bird in 10 minutes' Youtube 영상 촬영 [Click Link](https://www.youtube.com/watch?v=S1CeVZ_i0y0)
+- ['Make Flappy Bird in 10 minutes'](https://www.youtube.com/watch?v=S1CeVZ_i0y0) Youtube 영상 촬영
 - TML 세미나 '8분만에 ‘Angry Bird’ 만들기 with Corona SDK' 강연
 - 청년프론티어 앱 창업 지원사업 ‘Coaching Startup’ 우수사례 발표
 - KSIA 제 4회 ‘IT인들의 마음 속 이야기’ 강연
