@@ -26,7 +26,7 @@
 
 </br>
 
-일을 좋아합니다 ~~노가다를 싫어합니다~~.
+
 
 </br>
 
@@ -34,15 +34,23 @@
 ### AJ Networks 
 #### 아키텍처팀 
 - **차세대 ERP 시스템 설계, 구축 프로젝트 참여**
-  - IDC 기반의 DC/OS를 활용한 컨테이너 오케스트레이션
-  - ㅁㅇㄴㄹ
+  - IDC 기반의 DC/OS를 활용한 운영, 개발 인프라 구축 참여
+  - CI/CD 파이프라인 구축 및 운영 전담
+    - Jenkins CI
+      - Java(Spring / Spring boot), Tomcat 빌드 및 배포
+      - Docker container 빌드 및 배포
+    - Gitlab CI
+      - Node.js(Express), Nginx 빌드 및 배포
+  - 부하 테스트 환경 구축 및 운영
+    - jMeter(Controller-Server / Master-Slave)를 N대의 노드에 배치하여 동시, 다수 접속 시나리오를 위한 분산 처리 환경 구축
+    - 테스트 시나리오의 정확도를 위한 각 노드마다의 Thread(접속자), Listener(HTTP Request / Response data의 시각화), 불규칙적 REST 요청(GET, POST)를 JMeter 내에서 자동화하는 스크립트를 개발.
 - **데이터베이스 메타데이터 관리 도구 개발 책임**
+  - ERP 시스템에서 사용될 메타데이터 관리 도구
+    - 단어, 용어, 도메인 
   - 프로젝트(UI, API) 개발 전담
-  - UI - HTML5, CSS(LESS), Vue.js, jQuery
-  - API - Node.js, Express, knexjs
-- 2017~현재
-#### 모바일사업개발팀
-- 2016~2017
+  - UI(HTML5, Materialize(+LESS), Vue.js, jQuery, EJS
+  - API(Node.js, Express, Knexjs)
+- 2016~현재
 
 ### Pikicast
 - **피키캐스트 웹서비스 메이저 업데이트(2.0)**
@@ -52,7 +60,8 @@
 - 2014~2015
 
 ### Add2Paper
-- **프린트 드라이버**
+- **프린트 드라이버 및 클라이언트 유지보수 참여**
+- **안드로이드 클라이언트 유지보수 참여**
 - 2013~2014
 
 </br>
@@ -64,8 +73,8 @@
   - API 개발 전담
     - Node.js, Express, Knexjs
     - 인증/인가 서비스 (JWT, AWS Lambda, API Gateway)
-    - 메인(유저) 서비스
-    - 어드민(CMS) 서비스
+    - 메인(사용자) 서비스
+    - 어드민(관리자, CMS) 서비스
     - 푸쉬(이메일, SMS) 서비스
     - HTML 기반의 PDF(세금계산서, 견적서 등) 렌더링 서비스
   - 운영, 개발 인프라 구축 전담
