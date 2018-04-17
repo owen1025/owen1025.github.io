@@ -33,8 +33,8 @@
 ## 경력사항
 ### AJ Networks (2016~현재)
 #### 아키텍처팀 
-- **차세대 ERP 시스템 설계, 구축 프로젝트 참여**
-  - IDC 기반의 DC/OS를 활용한 운영, 개발 인프라 구축 참여
+- **차세대 ERP 시스템 인프라 설계, 구축 프로젝트 참여**
+  - IDC 기반의 [DC/OS](https://dcos.io/)를 활용한 운영, 개발 인프라 구축 참여
   - CI/CD 파이프라인 구축 및 운영 전담
     - Jenkins CI
       - Java(Spring / Spring boot), Tomcat 빌드 및 배포
@@ -51,18 +51,22 @@
   - UI(HTML5, Materialize(+LESS), Vue.js, jQuery, EJS
   - API(Node.js, Express, Knexjs)
 
+</br>
+
 ### Pikicast (2014~2015)
 - **피키캐스트 웹서비스 메이저 업데이트(2.0)**
   - API 개발 전담 및 기획 참여
-  - PHP(Codeigniter)
+  - PHP, Codeigniter
   - [Click Link](https://www.pikicast.com/)
 - **피키캐스트 웹서비스(1.0) 유지보수 참여**
   - UI 유지보수 전담
   - HTML5, CSS, jQuery
 
+</br>
+
 ### Add2Paper (2013~2014)
-- **프린트 드라이버 및 클라이언트 유지보수 참여**
-- **안드로이드 클라이언트 유지보수 참여**
+- 프린트 드라이버 및 클라이언트 유지보수 
+- 안드로이드 클라이언트 유지보수 
 
 </br>
 
@@ -79,6 +83,7 @@
     - HTML 기반의 PDF(세금계산서, 견적서 등) 렌더링 서비스
   - 운영, 개발 인프라 구축 전담
     - 컨테이너 오케스트레이션 (Docker, ECS, EC2, ECR)
+    - 웹서버 (NginX), WAS (Node.js, HTTP)
     - 데이터베이스 (MySQL - RDS)
     - 트래픽 로드 밸런싱 (ALB, Route53)
     - CI/CD (Codepipeline, Codebuild, Github webhook)
@@ -89,7 +94,7 @@
 ### Codeigniter-apidocs
 - 오픈소스 프로젝트 책임
 - Codeigniter로 기 개발 된 프로젝트의 컨트롤러를 분석하여 자동으로 API 테스팅 문서(응답/요청)를 작성. 
-- 핵심 모듈 (PHP) 개발 담당
+- 핵심 모듈 (PHP, Codeigniter) 개발
 - [Click Link](https://github.com/owen1025/codeigniter-apidocs)
 
 ### Zio Ball
