@@ -3,6 +3,8 @@
 - 최제필 myartame@gmail.com / 010-2612-1052
 - 한양대학교 정보시스템학과
 - [포트폴리오/영문이력서](https://owen1025.github.io)
+- [브런치]()(한글 문서)
+- [미디움]()(영문 문서)
 - 상태 표시
   - [x] 어디선가 일하는 중
   - [ ] 구직 중
@@ -26,12 +28,10 @@
 
 </br>
 
-
-
 </br>
 
 ## 경력사항
-### AJ Networks 
+### AJ Networks (2016~현재)
 #### 아키텍처팀 
 - **차세대 ERP 시스템 설계, 구축 프로젝트 참여**
   - IDC 기반의 DC/OS를 활용한 운영, 개발 인프라 구축 참여
@@ -50,19 +50,19 @@
   - 프로젝트(UI, API) 개발 전담
   - UI(HTML5, Materialize(+LESS), Vue.js, jQuery, EJS
   - API(Node.js, Express, Knexjs)
-- 2016~현재
 
-### Pikicast
+### Pikicast (2014~2015)
 - **피키캐스트 웹서비스 메이저 업데이트(2.0)**
   - API 개발 전담 및 기획 참여
   - PHP(Codeigniter)
   - [Click Link](https://www.pikicast.com/)
-- 2014~2015
+- **피키캐스트 웹서비스(1.0) 유지보수 참여**
+  - UI 유지보수 전담
+  - HTML5, CSS, jQuery
 
-### Add2Paper
+### Add2Paper (2013~2014)
 - **프린트 드라이버 및 클라이언트 유지보수 참여**
 - **안드로이드 클라이언트 유지보수 참여**
-- 2013~2014
 
 </br>
 
