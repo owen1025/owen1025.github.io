@@ -3,8 +3,7 @@
 - 최제필 myartame@gmail.com / 010-2612-1052
 - 한양대학교 정보시스템학과
 - [포트폴리오/영문이력서](https://owen1025.github.io)
-- [브런치]()(한글 문서)
-- [미디움]()(영문 문서)
+- [브런치]()(한글 문서), [미디움]()(영문 문서)
 - 상태 표시
   - [x] 어디선가 일하는 중
   - [ ] 구직 중
@@ -28,6 +27,26 @@
 
 </br>
 
+아래 항목에 해당하는 일에 흥미를 느낍니다.
+- 공통 기능의 모듈화
+  - 단순히 기능 작동을 위함이 아닌 가독성이 높고 재사용이 가능한 코드 작성
+  - ES6+ 스펙
+  - 비공개 NPM 레포지토리, 기타(yarn)
+- 문서화 및 공유
+  - 옆 자리, 뒷 자리, 팀 동료들이 제가 어떤 일을 하는 지 알고 있었으면 합니다.
+  - ~~휴가 때 전화 받기 싫습니다~~
+- 자동화
+  - 저보다 똑똑하고 전기만 먹으면 되는 애들이 대신 일해줬으면 합니다.
+  - 똑같은 일을 N번 해야하는 건 지옥입니다.
+- 키워드 목록
+  - Typescript, GraphQL, MSA, Koajs, Mongo DB, React, React-native, PWA, DevOps(해도해도 어렵군요)
+
+</br>
+
+`이직하게 되면 비활성화 될 문단입니다.`</br>
+현재 구직중입니다. 
+
+
 </br>
 
 ## 경력사항
@@ -35,21 +54,15 @@
 #### 아키텍처팀 
 - **차세대 ERP 시스템 인프라 설계, 구축 프로젝트 참여**
   - IDC 기반의 [DC/OS](https://dcos.io/)를 활용한 운영, 개발 인프라 구축 참여
+    - IDC 마이그레이션, 컨테이너 오케스트레이션, 웹서버, WAS, 모니터링(로그, 메트릭, 퍼포먼스) 등
   - CI/CD 파이프라인 구축 및 운영 전담
-    - Jenkins CI
-      - Java(Spring / Spring boot), Tomcat 빌드 및 배포
-      - Docker container 빌드 및 배포
-    - Gitlab CI
-      - Node.js(Express), Nginx 빌드 및 배포
   - 부하 테스트 환경 구축 및 운영
-    - jMeter(Controller-Server / Master-Slave)를 N대의 노드에 배치하여 동시, 다수 접속 시나리오를 위한 분산 처리 환경 구축
-    - 테스트 시나리오의 정확도를 위한 각 노드마다의 Thread(접속자), Listener(HTTP Request / Response data의 시각화), 불규칙적 REST 요청(GET, POST)를 JMeter 내에서 자동화하는 스크립트를 개발.
 - **데이터베이스 메타데이터 관리 도구 개발 책임**
   - ERP 시스템에서 사용될 메타데이터 관리 도구
     - 단어, 용어, 도메인 
   - 프로젝트(UI, API) 개발 전담
   - UI(HTML5, Materialize(+LESS), Vue.js, jQuery, EJS
-  - API(Node.js, Express, Knexjs)
+  - API(Node.js, Express, Knexjs, MySQL(Percona))
 
 </br>
 
@@ -75,7 +88,7 @@
 - 도시락 전자 상거래 서비스
 - **(SI) 백엔드 시스템 구축, 개발 총괄**
   - API 개발 전담
-    - Node.js, Express, Knexjs
+    - Node.js, Express, Knexjs, MySQL
     - 인증/인가 서비스 (JWT, AWS Lambda, API Gateway)
     - 메인(사용자) 서비스
     - 어드민(관리자, CMS) 서비스
